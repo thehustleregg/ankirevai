@@ -1,0 +1,11 @@
+{
+    "mode": "backend",
+    "openrouter_api_key": "",
+    "default_model": "",
+    "reviewer_actions": [],
+    "auth": {
+        "access_token": "",
+        "refresh_token": "",
+        "email": ""
+    }
+}

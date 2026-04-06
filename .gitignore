@@ -1,0 +1,21 @@
+# Only publish the addon - exclude everything else
+backend/
+website/
+competitive_analysis.md
+landing_analysis.md
+plan.md
+ankiweb_description.md
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Anki
+meta.json
+*.ankiaddon
+
+# Supabase
+.temp/
